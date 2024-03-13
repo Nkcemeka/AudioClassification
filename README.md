@@ -1,5 +1,5 @@
 # Audio Classification with Pytorch
-Having explored classification with image datasets in many ways, I decided to play around with the Urban8K sound dataset. This short project helped me go over a rough overview of some basic audio concepts about sampling, mel spectrograms and certain torchaudio transforms...etc
+Having explored classification with image datasets in many ways, I decided to play around with the Urban8K sound dataset. This short project helped me go over a rough overview of some basic audio concepts about sampling, mel spectrograms and certain torchaudio transforms..
 
 ## Directory Structure 
 ---
@@ -19,3 +19,6 @@ Having explored classification with image datasets in many ways, I decided to pl
 2 directories, 9 files
 ```
 ---
+
+## Notes
+To run the program, just run <i>python train.py</i>. Ensure the dataset directory is one level above in order for the program to run without errors.
